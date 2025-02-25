@@ -168,7 +168,7 @@ QuizLit is an interactive platform designed to provide book content and quizzes 
 5. Create a pull request to the main branch.
 
 ## Contact
-For any questions or feedback, please contact [kiya@gmail.com].
+For any questions or feedback, please contact [tmikiyas8@gmail.com].
 
 ### Contributors
 - Mikiyas Tadesse
